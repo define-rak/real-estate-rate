@@ -1,5 +1,4 @@
-# real-estate-rate
-RealEstateRate repo for Cactus hackathon
+# RealEstateRate repo for Cactus hackathon
 
 Участники:
 
