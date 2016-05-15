@@ -15,3 +15,7 @@
 Нужен:
 
 хороший front-end dev (html,css,js) + неплохо designer в одном лице
+
+Найден:
+
+Александр Тонконоженко - https://github.com/Tonkonozhenko/cactus-hack
