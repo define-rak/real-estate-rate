@@ -14,7 +14,7 @@ import json
 import requests
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://remote_root:UrbanSafety@1@13.79.157.111:3306/urbansafety'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://remote_root:<password>@1@13.79.157.111:3306/urbansafety'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SQLALCHEMY_POOL_TIMEOUT'] = 1800
 db.init_app(app)
